@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    background-image: url('images/high-resolation-digital-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    
+    
+}
+
+#infoContainer {
+    margin-top: 200px;
+    background-image: url('images/background 2.jpg');
+    background-color: appworkspace;
+    color: aliceblue;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   
+}
+
+#myName {
+    text-align: center;
+    margin-top: 5px;
+}
+
+#myImage {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+h4 {
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin: 3px;
+}
+
+ul {
+    margin: 10px 0 10px 0;
+}
+
+#footer {
+    color: aliceblue;
+}
+
+
+
+
+/* 
+    Created on : 27 May 2016, 1:43:05 PM
+    Author     : DevianK
+*/
+
